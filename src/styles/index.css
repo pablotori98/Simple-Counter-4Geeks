@@ -1,12 +1,19 @@
+.contador{
+    margin: 100px auto;
+    background-color: rgb(66, 66, 66);
+    width: 170px;
+    height: 170px;
+    display: flex;
+    border-radius: 20px;
+}
 
-/* 
+h1{
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+body{
+    background-image: url("https://i.pinimg.com/originals/1d/26/c5/1d26c5b022c071fb8f1e3ae2f0f65ba9.gif");
+}
