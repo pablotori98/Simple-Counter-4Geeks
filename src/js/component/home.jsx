@@ -5,7 +5,7 @@ const Home = () =>{
 	
 
 	return(
-		<div><SecondsCounterHome /></div>
+		<div className="contador"><h1><SecondsCounterHome /></h1></div>
 	)
 }
 
